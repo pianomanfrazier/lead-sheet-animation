@@ -9,6 +9,6 @@
   "author": "Ryan Frazier",
   "license": "MIT",
   "devDependencies": {
-    "elm-live": "^4.0.1"
+    "elm-live": "^4.0.2"
   }
 }
