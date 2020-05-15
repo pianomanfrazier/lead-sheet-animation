@@ -18,14 +18,15 @@ html {
 }
 
 body {
-    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: "Aleo";
     text-align: center;
     padding-top: 4em;
 
     max-width: 45em;
     margin: auto;
 
-    font-size: 32px;
+    font-size: 28px;
     color: var(--text-color);
     background-color: var(--background-color);
 }
